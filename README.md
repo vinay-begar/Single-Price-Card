@@ -3,8 +3,8 @@
 
 ### Links
 
-- Solution URL: [Github]()
-- Live Site URL: [vercel Link]()
+- Solution URL: [Github](https://github.com/vinay-begar/Frontend-Mini-Projects/tree/main/Single-Price-Card)
+- Live Site URL: [vercel Link](https://single-price-card-dusky.vercel.app/)
 
 ### ScreenShot
 
